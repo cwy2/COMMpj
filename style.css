@@ -243,10 +243,11 @@ container {
 }
 
 .footer {
-   position: fixed;
+   position: sticky;
    left: 0;
    bottom: 0;
    width: 100%;
+    backfround-color:white;
    color: white;
    text-align: center;
 }
